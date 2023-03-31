@@ -8,7 +8,7 @@ public class Levels {
 	 private static Scanner in = new Scanner(System.in);
 	
 	 public static void StartGame() {
-		 System.out.println("Welcome you have woken up in a house your realize every time you hear the beat of a drum you are transported to another room in this house your goal is to survive and escape. ");
+		 System.out.println("Welcome you have woken up in a house your realize every time you hear the beat of a drum you are transported to another room in this house your goal is to escape. ");
 		 ;
 		  String choice; 
 		  
